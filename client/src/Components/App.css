@@ -1,0 +1,82 @@
+.welcome-div {
+    text-align: center;
+    color : white;
+    height:99vh;
+    width: 100vw;
+    background-image: url("./backgroundImage.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn-proceed{
+    background-color: azure;
+}
+
+.btn-user:disabled{
+    background-color: rgb(255,212,114);
+    border-color: black;
+    color: black;
+}
+
+.navBar-color{
+    background-color: rgb(255,212,114);
+}
+
+.booked-notify{
+    color : red;
+}
+
+.title{
+    color: chocolate;
+    font-weight: bold;
+    font-size:large;
+}
+
+.personal-div{
+    text-align: center;
+}
+
+.notify-p{
+    color:red;
+    font-weight: bold;
+    font-size: large;
+}
+
+.booking-p{
+    color:black;
+    font-weight: bold;
+    font-size: large;
+}
+
+.btn-free{
+    background-color: white;
+    color: black;
+}
+
+.btn-free:disabled{
+    background-color: white;
+    color: black;
+}
+
+.btn-reserved{
+    background-color: rgb(255,212,114);
+    color: black;
+}
+
+.btn-occupied:disabled{
+    background-color: red;
+    color: white;
+}
+
+.btn-highlight{
+    background-color: rgb(13, 32, 242);
+    color: white;
+}
+
+body {
+    background-color: rgb(251,238,230,0.15);
+}
+
+p {
+    font-size: 1.2em;
+  }
